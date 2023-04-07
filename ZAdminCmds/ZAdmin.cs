@@ -33,7 +33,7 @@ namespace ZAdminCmds
 		public static double MIDNIGHT = 16200;
 	}
 
-	[ApiVersion(1,19)]
+	[ApiVersion(2,1,0,0)]
     public class ZAdmin : TerrariaPlugin
     {
 		public override string Name { get { return "ZAdminCmds"; } }
